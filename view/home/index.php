@@ -37,5 +37,14 @@
                         </main>
                         <footer class="cena">13.48 &euro;</footer>
                     </article>
+                    <article class="blok">
+                        <header>
+                            <h2>Mis GAM8700</h2>
+                        </header>
+                        <main class="opis">
+                            Posebne karakteristike i neki kraci opis ovoga misa.
+                        </main>
+                        <footer class="cena">13.48 &euro;</footer>
+                    </article>
             </main>
          
