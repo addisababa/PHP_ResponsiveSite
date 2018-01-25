@@ -1,0 +1,26 @@
+.input-block {
+    margin-bottom: 5px;
+    padding: 5px;
+}
+.input-block > label {
+    vertical-align: top;
+    display: inline-block;
+    min-width: 150px;
+}
+/*.input-block > textArea,
+.input-block > input[type='text'],
+.input-block > input[type='email'],
+.input-block > input[type='number'],
+.input-block > input[type='password'],
+.input-block > input[type='date'] {
+    padding: 5px 10px;
+    min-width: 250px;
+}*/
+.input-block > .input-field {
+    padding: 5px 10px;
+    min-width: 250px;
+}
+form .button {
+    padding: 10px 40px;
+    font-weight: bold;
+}
